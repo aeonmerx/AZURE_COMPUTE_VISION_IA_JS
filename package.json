@@ -1,0 +1,23 @@
+{
+  "name": "visionapp",
+  "version": "1.0.0",
+  "description": "app de vision d eimagenes\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001be ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "app",
+    "visiona",
+    "azure",
+    "compute",
+    "vision"
+  ],
+  "author": "william r",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/cognitiveservices-computervision": "^8.2.0",
+    "async": "^3.2.5",
+    "ms-rest-azure": "^3.0.2"
+  }
+}
